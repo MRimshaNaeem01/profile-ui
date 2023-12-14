@@ -5,9 +5,35 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+    padding: 0;
+    background-color: #F4F5F7;
+    color: #2D3139;
+  }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+span{
+  color: gray;
+  font-size: 12px;
+  
+}
+h1{
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 0px;
+  letter-spacing: 0em;
+  color: #2D3139;
+
+}
+p{
+  font-family: Segoe UI;
+font-size: 16px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+color: #2D3139;
+
 }
